@@ -1,4 +1,4 @@
-![Banner](/banner.png)
+![Banner](https://github.com/fusemc-dev/.github/blob/master/banner.png?raw=true)
 
 # fusemc
 
